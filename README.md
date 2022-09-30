@@ -4,6 +4,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivaylomn&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000)<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylomn&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="linkedin.com/in/ivaylo-ninov-b2b3b8216">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.facebook.com/ivailo.ninov1/">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="mailto:ivailomn216@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <!--
 **Ivaylomn/Ivaylomn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
