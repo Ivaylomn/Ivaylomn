@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Ivaylomn)<p></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivaylomn&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000)<p></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylomn&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/ivaylo-ninov-b2b3b8216/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
